@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Front-end development.<br>I'm looking to collaborate on open source projects and Front end projects..<br>I'm looking for help with scalable projects.<br>I'm currently learning React.js.<br>You can reach me on my email; msirajkazim@gmail.com
+I'm currently working on Full Stack Web development.<br>I'm looking to collaborate on open source projects and Front end projects..<br>I'm looking for help with scalable projects.<br>I'm currently learning React.js.<br>You can reach me on my email; msirajkazim@gmail.com
 
 
 ## 🌐 Socials:
