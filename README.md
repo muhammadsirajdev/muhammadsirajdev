@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Software Engineer at NCAI CUI.<br>I'm looking to collaborate on open source projects and Full Stack projects...<br>You can reach me on my email; msirajkazim@gmail.com
+Software Engineer at NCAI CUI.<br>I'm looking to collaborate on open source projects and Full Stack projects...<br>You can reach me on my email; msirajkazim@gmail.com
 
 
 ## 🌐 Socials:
