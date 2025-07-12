@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Full Stack Web development.<br>I'm looking to collaborate on open source projects and Full Stack projects..<br>I'm looking for help with scalable projects.<br>I'm currently learning Back-end.<br>You can reach me on my email; msirajkazim@gmail.com
+Full Stack Software Engineer at NCAI CUI.<br>I'm looking to collaborate on open source projects and Full Stack projects...<br>You can reach me on my email; msirajkazim@gmail.com
 
 
 ## 🌐 Socials:
