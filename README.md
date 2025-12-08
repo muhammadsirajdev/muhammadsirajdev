@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Full Stack Web Developer with expertise in MERN Stack and Next.js.<br>Currently, I’m expanding my skillset by diving into Machine Learning.<br><br>💼 Working as an Associate ML Engineer at NCAI, COMSATS University Islamabad (CUI)<br>📫 Reach me at: msirajkazim@gmail.com<br><br>🤝 Open to collaborating on Machine Learning and Web Development projects<br><br>⚡ Fun Fact: I love solving problems so much that I sometimes debug code in my dreams!
+I’m a Full Stack Web Developer with expertise in MERN Stack , Next.js and FastApi.<br>Currently, I’m expanding my skillset by diving into Machine Learning.<br><br>💼 Working as an Associate ML Engineer at NCAI, COMSATS University Islamabad (CUI)<br>📫 Reach me at: msirajkazim@gmail.com<br><br>🤝 Open to collaborating on Machine Learning and Web Development projects<br><br>⚡ Fun Fact: I love solving problems so much that I sometimes debug code in my dreams!
 
 
 ## 🌐 Socials:
