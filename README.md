@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer with a focus on building scalable and efficient Solutions. My roller coaster of technolgy exploration and journey in tech has led me to specialize in Backend ecosystem, where I love Building Scalable.<br><br>🔭 I'm currently working on: Full Stack Web & AI Applications<br>🌱 I'm currently learning: AWS & Fine tuning LLMs<br>👯 I'm looking to collaborate on: Open-source projects, whatever I like, I dont mind technologies.<br>💬 Ask me about: FastApi, fine tuning LLMs, AI Agents and JavaScript.
+I'm a software engineer with a focus on building scalable and efficient Solutions. My roller coaster of technolgy exploration and journey in tech has led me to specialize in Backend & AI ecosystem, where I love Building Scalable.<br><br>🔭 I'm currently working on: Full Stack Web & AI Applications<br>🌱 I'm currently learning: AWS & Fine tuning LLMs<br>👯 I'm looking to collaborate on: Open-source projects, whatever I like, I dont mind technologies.<br>💬 Ask me about: FastApi, fine tuning LLMs, AI Agents and JavaScript.
 
 
 ## 🌐 Socials:
