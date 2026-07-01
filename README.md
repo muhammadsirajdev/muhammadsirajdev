@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Siraj%20Kazim&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=%E2%9A%A1%20Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Muhammad%20Siraj&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=%E2%9A%A1%20Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- CARTOON CODING GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding-cartoon"/>
@@ -61,7 +61,12 @@ fun_fact: >
 
 ### 🏆 Achievement Unlocked
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadsirajdev&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10" width="320" alt="trophies"/>
+![Commits](https://img.shields.io/badge/Total_Commits-🔥_Never_Stops-238636?style=flat-square&labelColor=0d1117)
+![PRs](https://img.shields.io/badge/Pull_Requests-✅_Always_Merging-58a6ff?style=flat-square&labelColor=0d1117)
+![Issues](https://img.shields.io/badge/Bugs_Squashed-🐛_Countless-da3633?style=flat-square&labelColor=0d1117)
+![Stars](https://img.shields.io/badge/Stars_Earned-⭐_Collecting-e3b341?style=flat-square&labelColor=0d1117)
+
+<img src="https://github-readme-stats.shion.dev/api?username=muhammadsirajdev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=contribs&hide_title=true&hide_rank=false&card_width=300" width="320" alt="stats-compact"/>
 
 </td>
 </tr>
@@ -197,7 +202,6 @@ fun_fact: >
   <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadsirajdev/muhammadsirajdev/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚠️ *To activate the snake animation, add the [snk workflow](https://github.com/Platane/snk) to your profile repo!*
 
 </div>
 
