@@ -29,7 +29,7 @@
 ## 🥷 Who Am I?
 
 ```yaml
-name: Muhammad Siraj Kazim
+name: Muhammad Siraj
 location: Pakistan 🇵🇰
 role: Software Engineer & AI Enthusiast
 superpower: Making backends that don't crash (mostly)
@@ -186,22 +186,6 @@ fun_fact: >
 <br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadsirajdev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="38%" alt="top-langs"/>
-
-</div>
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-
-## 🐍 Watch the Snake Eat My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadsirajdev/muhammadsirajdev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsirajdev/muhammadsirajdev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadsirajdev/muhammadsirajdev/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
 
 </div>
 
