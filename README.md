@@ -9,7 +9,7 @@
 <br/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%A7%A0+AI+Engineer+%7C+Backend+Architect;%F0%9F%A4%96+AI+Automations+%E2%80%A2+n8n+%E2%80%A2+Make+%E2%80%A2+Zapier;%F0%9F%94%A5+FastAPI+%E2%80%A2+LLMs+%E2%80%A2+Full+Stack+Wizard;%F0%9F%8E%AE+Turning+Coffee+into+Code+Since+Forever" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=140&lines=%F0%9F%A7%A0+AI+Engineer+%7C+Backend+Architect;%F0%9F%A4%96+AI+Automations+%E2%80%A2+n8n+%E2%80%A2+Make+%E2%80%A2+Zapier;%F0%9F%94%A5+FastAPI+%E2%80%A2+LLMs+%E2%80%A2+Full+Stack+Wizard;%F0%9F%8E%AE+Turning+Coffee+into+Code+Since+Forever" alt="Typing SVG" /></a>
 
 <br/>
 
