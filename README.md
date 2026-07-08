@@ -9,7 +9,7 @@
 <br/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%A7%A0+AI+Engineer+%7C+Backend+Architect;%F0%9F%94%A5+FastAPI+%E2%80%A2+LLMs+%E2%80%A2+Full+Stack+Wizard;%F0%9F%8E%AE+Turning+Coffee+into+Code+Since+Forever" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%A7%A0+AI+Engineer+%7C+Backend+Architect;%F0%9F%A4%96+AI+Automations+%E2%80%A2+n8n+%E2%80%A2+Make+%E2%80%A2+Zapier;%F0%9F%94%A5+FastAPI+%E2%80%A2+LLMs+%E2%80%A2+Full+Stack+Wizard;%F0%9F%8E%AE+Turning+Coffee+into+Code+Since+Forever" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- CARTOON AVATAR + ABOUT ME SECTION -->
 <table>
@@ -36,19 +36,21 @@ superpower: Making backends that don't crash (mostly)
 fuel: ☕ Coffee → Code → Deploy → Repeat
 
 currently:
-  building: Full Stack Web & AI Applications
+  building: Full Stack Web, AI Apps & Automations
   learning: AWS & Fine-tuning LLMs
-  vibing_with: Open-source projects (any tech, no gatekeeping)
+  automating: Boring stuff with n8n, Make & Zapier
+  vibing_with: Open-source projects (no gatekeeping)
 
 ask_me_about:
   - FastAPI (my beloved 💚)
+  - AI Automations & Workflows (n8n ⚡ Make ⚡ Zapier)
   - Fine-tuning LLMs
   - AI Agents that actually work
   - JavaScript (the chaotic good language)
 
 fun_fact: >
   I once debugged a production issue at 3AM
-  while half-asleep... and it worked. 
+  while half-asleep... and it worked.
   I still don't know how. 🧙‍♂️
 ```
 
@@ -63,6 +65,7 @@ fun_fact: >
 
 ![Commits](https://img.shields.io/badge/Total_Commits-🔥_Never_Stops-238636?style=flat-square&labelColor=0d1117)
 ![PRs](https://img.shields.io/badge/Pull_Requests-✅_Always_Merging-58a6ff?style=flat-square&labelColor=0d1117)
+![Automations](https://img.shields.io/badge/Workflows_Automated-🤖_While_I_Sleep-a371f7?style=flat-square&labelColor=0d1117)
 ![Issues](https://img.shields.io/badge/Bugs_Squashed-🐛_Countless-da3633?style=flat-square&labelColor=0d1117)
 ![Stars](https://img.shields.io/badge/Stars_Earned-⭐_Collecting-e3b341?style=flat-square&labelColor=0d1117)
 
@@ -72,7 +75,7 @@ fun_fact: >
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- TECH STACK WITH COOL CATEGORIES -->
 <div align="center">
@@ -110,6 +113,23 @@ fun_fact: >
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%" colspan="2">
+
+### ⚡ AI Automation Alchemy
+<i>Why do it manually when a robot can do it at 3AM?</i>
+<br/><br/>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-2088FF?style=for-the-badge&logo=webhooks&logoColor=white)
 
 </td>
 </tr>
@@ -169,7 +189,18 @@ fun_fact: >
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
+
+## 🏆 Trophy Cabinet
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsirajdev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="trophies"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- GITHUB STATS WITH COOL LAYOUT -->
 <div align="center">
@@ -189,7 +220,7 @@ fun_fact: >
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
@@ -198,9 +229,12 @@ fun_fact: >
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadsirajdev&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&area_color=238636&hide_border=true)](https://github.com/muhammadsirajdev)
 
+<!-- CONTRIBUTION SNAKE -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- CONNECT SECTION -->
 <div align="center">
